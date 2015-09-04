@@ -1,7 +1,7 @@
 #NSS Group Project: A Night at the Movies
 
 ###Functionality
-This webapp allows users to search for movies using the OMDB api.  Users can then add movies from the search results to their wish list and eventually to their seen movies list.  Movies they have seen can be rated.  All data is stored and retrieved using firebase.
+This webapp allows users to search for movies using the OMDB api.  Users can then add movies from the search results to their wish list and eventually to their seen movies list.  All data is stored and retrieved using firebase.
 
 ###Technologies used:
 1. RequireJS
